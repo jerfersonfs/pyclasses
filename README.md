@@ -1,1 +1,1 @@
-# pyclasses
+# Repository for save Python's class
